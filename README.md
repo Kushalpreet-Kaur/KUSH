@@ -1,4 +1,3 @@
 # KUSH
 Hello Git!
-HI
-HELLO
+Kush
